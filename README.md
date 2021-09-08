@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Victor4X)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Victor4X&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Victor4X/Victor4X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
